@@ -12,6 +12,9 @@ Group 11
 
 2. Sensor Base Board:
 
+1- Mohamed Yasser
+2- Youssef Alaa
+
 
 
 
